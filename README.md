@@ -1,6 +1,6 @@
-# StreetConnect Platform
+# StreetFood-Connect Platform
 
-StreetConnect is a full-stack web application that connects street food vendors with trusted suppliers. The platform provides dashboards for both vendors and suppliers, product management, order processing, analytics, and more.
+StreetFood-Connect is a full-stack web application that connects street food vendors with trusted suppliers. The platform provides dashboards for both vendors and suppliers, product management, order processing, analytics, and more.
 
 ## Project Structure
 
